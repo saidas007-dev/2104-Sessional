@@ -1,5 +1,9 @@
-#include <bits/stdc++.h>
+// Remove this: #include <bits/stdc++.h> 
+#include <iostream> // Add this for cout/cin
+// #include <vector> // Add if you use vectors
+
 using namespace std;
+
 
 void bubblesort(int arr[], int size)
 {
